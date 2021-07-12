@@ -2,7 +2,11 @@
 
 ### STEP 1
 Street View Map with EarthQuake Data
-![step-1-street](images/Step1Street.png)
+![step-1-street](Images/Step1Street.png)
 
-Street View Map with EarthQuake Data
-![step-1-dark](images/Step1Dark.png)
+Dark View Map with EarthQuake Data
+![step-1-dark](Images/Step1Dark.png)
+
+### STEP 2
+Satellite View Map with EarthQuake Data
+![step-1-dark](Images/Step2Sat.png)
