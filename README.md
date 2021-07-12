@@ -9,4 +9,4 @@ Dark View Map with EarthQuake Data
 
 ### STEP 2
 Satellite View Map with EarthQuake Data
-![step-1-dark](Images/Step2Sat.png)
+![step-2-dark](Images/Step2Sat.png)
