@@ -109,7 +109,7 @@ var myMap = L.map("map", {
         30.09, -50
     ],
     zoom: 2.5,
-    layers: [satmap, techtonics, earthquakes] //ORDERING THIS SO THAT THE TOOLTIPS WORK
+    layers: [satmap, earthquakes, techtonics] //ORDERING THIS SO THAT THE TOOLTIPS WORK
 });
 
 // Create a layer control
